@@ -6,6 +6,8 @@ This project helps users create habits, mark daily completion, and visualize pro
 
 ## 🚀 Features
 
+
+
 * ✅ Create new habits
 * ✅ Track daily habit completion
 * ✅ Store habit data using MongoDB
